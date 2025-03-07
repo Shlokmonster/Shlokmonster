@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHLOK</h1>
-# 💫 About Me:
+💫 About Me:
  👋 Hi there! Welcome to my GitHub profile!<br><br> 🎯 I’m currently working on  <br>Exploring and developing projects using various programming languages and frameworks, including Python, C++, JavaScript, React, and React Native.<br><br> 🏡 I’m looking to collaborate on  <br>Exciting software development projects, open-source contributions, and innovative tech solutions.<br><br> 🤝 I’m looking for help with  <br>Advanced web and mobile development, performance optimization, and integrating new technologies into my projects.<br><br> 🌱 I’m currently learning  <br>Backend development, database management, and improving my full-stack development skills.<br><br> 💬 Ask me about  <br>Programming languages, front-end and back-end development, and using platforms like Appsheet, Wix, Figma, Webflow, and Framer.<br><br> ⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and experimenting with new frameworks and tools.<br><br>🚀 Let's connect and build something awesome together!  <br>
 
 
