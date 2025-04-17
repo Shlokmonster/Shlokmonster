@@ -1,29 +1,105 @@
-<h1 align="center">Hi 👋, I'm SHLOK</h1>
-💫 About Me:
- 👋 Hi there! Welcome to my GitHub profile!<br><br> 🎯 I’m currently working on  <br>Exploring and developing projects using various programming languages and frameworks, including Python, C++, JavaScript, React, and React Native.<br><br> 🏡 I’m looking to collaborate on  <br>Exciting software development projects, open-source contributions, and innovative tech solutions.<br><br> 🤝 I’m looking for help with  <br>Advanced web and mobile development, performance optimization, and integrating new technologies into my projects.<br><br> 🌱 I’m currently learning  <br>Backend development, database management, and improving my full-stack development skills.<br><br> 💬 Ask me about  <br>Programming languages, front-end and back-end development, and using platforms like Appsheet, Wix, Figma, Webflow, and Framer.<br><br> ⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and experimenting with new frameworks and tools.<br><br>🚀 Let's connect and build something awesome together!  <br>
+It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. I’m a versatile **MERN Stack Developer** with a passion for crafting scalable, performant full‑stack applications. I love turning complex problems into elegant code and shipping delightful experiences. Currently seeking exciting opportunities to push boundaries and grow.
 
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shlokk__.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shlok-kadam-1a75b5319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shlokkadam46@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shlokmonster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shlokmonster&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokmonster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shlokmonster&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shlok-kadam">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn">
+  </a>
+  <a href="mailto:shlokkadam46@gmail.com">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/shlokk__.__"> 
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shlokmonster&icon=3&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/Shlokmonster) 
+### 🛠 Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native">
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress">
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white&style=for-the-badge" alt="Chakra UI">
+
+  <!-- Databases & Backends -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase">
+
+  <!-- Cloud & CI/CD -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel">
+  <img src="https://img.shields.io/badge/Heroku-6762A6?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
+
+  <!-- Design & Prototyping -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma">
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Framer">
+  <img src="https://img.shields.io/badge/Proto.io-FF6A00?logo=proto.io&logoColor=white&style=for-the-badge" alt="Proto.io">
+</p>
+
+---
+
+### 🔥 Contribution by Language
+
+| Language     | % of Contributions | Focus Areas                                    |
+| ------------ | :----------------: | ----------------------------------------------- |
+| JavaScript   | 45%               | React UI, Express APIs, real-time features      |
+| TypeScript   | 20%               | Full‑stack type safety, next‑gen codebases      |
+| Python       | 10%               | Automation scripts, backend microservices       |
+| Java         |  8%               | Algorithmic tooling, Android utilities          |
+| C++          |  5%               | Performance‑critical modules, game engines      |
+| HTML/CSS     |  7%               | Responsive layouts, accessible design systems   |
+| SQL (MySQL)  |  3%               | Relational data modeling, analytics             |
+| NoSQL (MongoDB) |  5%             | Document data models, Mongoose ODM              |
+
+---
+
+### ⭐ Featured Projects
+
+#### AI‑Powered Interviewer
+- **Stack:** Next.js, React, Drizzle ORM, PostgreSQL, Google Gemini API  
+- Built an intelligent mock‑interview platform with real‑time feedback and performance analytics.  
+
+#### DevConnector – Full Stack Social Network
+- **Stack:** React, Node.js, Express.js, MongoDB  
+- Created a developer-centric social platform with JWT authentication, GitHub integration, and responsive UI.
+- Utilized Redux for state management and hosted with Vercel & Render.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Technology**, ITM Skills University (2024–2028)  
+> Specialized in MERN & full‑stack web development, cloud integrations, and DevOps practices.
+
+---
+
+<!--START_SECTION:waka-->
+```txt
+From: 09 April 2025 - To: 16 April 2025
+
+Total Time: 26 hrs 45 mins
+
+JavaScript     13 hrs 30 mins  █████████████░░░░░░░░░░░░   50.38 %
+TypeScript     5 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░░   20.69 %
+Node.js        3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.59 %
+MongoDB        2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+HTML/CSS       1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
