@@ -81,7 +81,7 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 - **Stack:** Next.js, React, Drizzle ORM, PostgreSQL, Google Gemini API  
 - Built an intelligent mock‑interview platform with real‑time feedback and performance analytics.  
 
-#### DevConnector – Full Stack Social Network
+#### DevConnector – Full Stack Social Network (Under Development)
 - **Stack:** React, Node.js, Express.js, MongoDB  
 - Created a developer-centric social platform with JWT authentication, GitHub integration, and responsive UI.
 - Utilized Redux for state management and hosted with Vercel & Render.
