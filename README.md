@@ -77,6 +77,11 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 
 ### ⭐ Featured Projects
 
+#### WINGAMES.CLUB – Real Money Ludo Matchmaking Platform
+- **Stack:** React, Node.js, Express.js, Supabase, Socket.IO, Redis, Razorpay, Cloudinary  
+- Built a secure real-money gaming platform where users can deposit funds, enter matchmaking queues, play Ludo, and submit match proofs for verification and payouts.
+- Integrated real-time battle pairing, wallet and referral system, and full admin control for managing KYC, funds, and matches.
+
 #### AI‑Powered Interviewer
 - **Stack:** Next.js, React, Drizzle ORM, PostgreSQL, Google Gemini API  
 - Built an intelligent mock‑interview platform with real‑time feedback and performance analytics.  
@@ -85,6 +90,7 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 - **Stack:** React, Node.js, Express.js, MongoDB  
 - Created a developer-centric social platform with JWT authentication, GitHub integration, and responsive UI.
 - Utilized Redux for state management and hosted with Vercel & Render.
+
 
 ---
 
