@@ -82,7 +82,7 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 - Built a secure real-money gaming platform where users can deposit funds, enter matchmaking queues, play Ludo, and submit match proofs for verification and payouts.
 - Integrated real-time battle pairing, wallet and referral system, and full admin control for managing KYC, funds, and matches.
 
-#### ExamLytic – AI‑Powered Exam Monitoring Platform
+#### Examlytic – AI‑Powered Exam Monitoring Platform
 - **Stack:**: React.js, Node.js, Express.js, Supabase, PeerJS, MediaRecorder API, Google Gemini API, MidPipe API
 - Built a real-time proctoring system with AI-based cheat detection, webcam/screen monitoring, auto-generated exams, and post-exam analytics with answer PDF exports.  
 
