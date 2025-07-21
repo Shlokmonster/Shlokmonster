@@ -1,7 +1,7 @@
 It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. I’m a versatile **MERN Stack Developer** with a passion for crafting scalable, performant full‑stack applications. I love turning complex problems into elegant code and shipping delightful experiences. Currently seeking exciting opportunities to push boundaries and grow.
 
 <p align="center">
-  <a href="https://shlokk.me"> 
+  <a href="http://shlokk.me"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Portfolio">
 </a>
   <a href="https://www.linkedin.com/in/shlok-kadam">
