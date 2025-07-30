@@ -103,7 +103,7 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 
 <!--START_SECTION:waka-->
 ```txt
-From:  14 July 2025 - To: 20 July 2025
+From:  21 July 2025 - To: 30 July 2025
 
 Total Time: 26 hrs 45 mins
 
