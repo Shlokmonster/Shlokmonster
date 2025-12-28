@@ -6,7 +6,10 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'   # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
