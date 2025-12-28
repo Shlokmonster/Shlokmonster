@@ -105,13 +105,9 @@ It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. 
 ```txt
 From: 20 December 2025 - To: 27 December 2025
 
-Total Time: 11 hrs 57 mins
+Total Time: 0 secs
 
-TypeScript   8 hrs 15 mins   █████████████████▒░░░░░░░   69.01 %
-SQL          1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Python       1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
