@@ -1,3 +1,5 @@
+<h1> Hey there, I'm Shlok Kadam </h1>
+
 It's me, Shlok. You might not have heard of me yet, but here’s a quick intro. I’m a versatile **MERN Stack Developer** with a passion for crafting scalable, performant full‑stack applications. I love turning complex problems into elegant code and shipping delightful experiences. Currently seeking exciting opportunities to push boundaries and grow.
 
 <p align="center">
