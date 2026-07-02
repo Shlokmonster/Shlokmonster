@@ -1,115 +1,220 @@
-<h1> Hey there, I'm Shlok Kadam </h1>
+<div align="center">
 
-You might not have heard of me yet, but here’s a quick intro. I’m a versatile **MERN Stack Developer** with a passion for crafting scalable, performant full‑stack applications. I love turning complex problems into elegant code and shipping delightful experiences. Currently seeking exciting opportunities to push boundaries and grow.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,18:0B1220,52:1D4ED8,100:60A5FA&height=250&section=header&text=SHLOK%20KADAM&fontSize=62&fontColor=F8FAFC&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%C2%B7%20PRODUCT%20BUILDER%20%C2%B7%20CLOUD%20LEARNER&descSize=15&descColor=BFDBFE&descAlignY=60&animation=fadeIn" width="100%" alt="Shlok Kadam banner" />
 
-<p align="center">
-  <a href="http://shlokkadam.netlify.app"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Portfolio">
-</a>
-  <a href="https://www.linkedin.com/in/shlok-kadam">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn">
-  </a>
-  <a href="mailto:shlokkadam46@gmail.com">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/shlokk__.__"> 
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram">
-  </a>
-</p>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=93C5FD&center=true&vCenter=true&width=820&lines=Building+products+from+first+idea+to+production.;React+interfaces.+Reliable+APIs.+Real-time+systems.;Learning+the+craft+of+scalable+product+engineering." alt="Typing introduction" /></a>
 
----
+<br/><br/>
 
-### 🛠 Tech Stack
+<a href="https://shlokkadam.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=93C5FD" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shlok-kadam"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+<a href="mailto:shlokkadam46@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=F8FAFC" alt="Email" /></a>
+<a href="https://github.com/Shlokmonster?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+<br/><br/>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native">
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress">
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui&logoColor=white&style=for-the-badge" alt="Chakra UI">
+<img src="https://komarev.com/ghpvc/?username=Shlokmonster&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Shlokmonster?label=FOLLOWERS&style=flat-square&color=2563EB&labelColor=0B1220" alt="Followers" />
+<img src="https://img.shields.io/badge/LOCATION-MUMBAI%2C%20INDIA-0B1220?style=flat-square&labelColor=2563EB" alt="Location Mumbai India" />
 
-  <!-- Databases & Backends -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase">
+</div>
 
-  <!-- Cloud & CI/CD -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel">
-  <img src="https://img.shields.io/badge/Heroku-6762A6?logo=heroku&logoColor=white&style=for-the-badge" alt="Heroku">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions">
+<br/>
 
-  <!-- Design & Prototyping -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma">
-  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white&style=for-the-badge" alt="Framer">
-  <img src="https://img.shields.io/badge/Proto.io-FF6A00?logo=proto.io&logoColor=white&style=for-the-badge" alt="Proto.io">
-</p>
+<div align="center">
+<img src="https://api.iconify.design/lucide:braces.svg?color=60A5FA" width="20" alt="" />
+&nbsp;&nbsp;
+<strong>Building useful software with product thinking, strong fundamentals, and a bias for shipping.</strong>
+</div>
 
----
+<br/>
 
-### 🔥 Contribution by Language
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Language     | % of Contributions | Focus Areas                                    |
-| ------------ | :----------------: | ----------------------------------------------- |
-| JavaScript   | 45%               | React UI, Express APIs, real-time features      |
-| TypeScript   | 20%               | Full‑stack type safety, next‑gen codebases      |
-| Python       | 10%               | Automation scripts, backend microservices       |
-| Java         |  8%               | Algorithmic tooling, Android utilities          |
-| C++          |  5%               | Performance‑critical modules, game engines      |
-| HTML/CSS     |  7%               | Responsive layouts, accessible design systems   |
-| SQL (MySQL)  |  3%               | Relational data modeling, analytics             |
-| NoSQL (MongoDB) |  5%             | Document data models, Mongoose ODM              |
+### <img src="https://api.iconify.design/lucide:user-round.svg?color=60A5FA" width="19" alt="" /> &nbsp;Profile
 
----
+B.Tech Computer Science student at **ITM Skills University**. I build full-stack experiences that combine thoughtful interfaces, backend systems, and cloud delivery.
 
-### ⭐ Featured Projects
+I enjoy the complete loop: **problem → product → deployment → iteration**.
 
-#### WINGAMES.CLUB – Real Money Ludo Matchmaking Platform
-- **Stack:** React, Node.js, Express.js, Supabase, Socket.IO, Redis, Razorpay, Cloudinary  
-- Built a secure real-money gaming platform where users can deposit funds, enter matchmaking queues, play Ludo, and submit match proofs for verification and payouts.
-- Integrated real-time battle pairing, wallet and referral system, and full admin control for managing KYC, funds, and matches.
+</td>
+<td width="50%" valign="top">
 
-#### Examlytic – AI‑Powered Exam Monitoring Platform
-- **Stack:**: React.js, Node.js, Express.js, Supabase, PeerJS, MediaRecorder API, Google Gemini API, MidPipe API
-- Built a real-time proctoring system with AI-based cheat detection, webcam/screen monitoring, auto-generated exams, and post-exam analytics with answer PDF exports.  
+### <img src="https://api.iconify.design/lucide:crosshair.svg?color=60A5FA" width="19" alt="" /> &nbsp;Current Direction
 
-#### DevConnector – Full Stack Social Network (Under Development)
-- **Stack:** React, Node.js, Express.js, MongoDB  
-- Created a developer-centric social platform with JWT authentication, GitHub integration, and responsive UI.
-- Utilized Redux for state management and hosted with Vercel & Render.
+- Full-stack engineering internships
+- Product-grade MERN applications
+- Real-time systems with Socket.IO and Redis
+- AWS, Docker, system design, and backend architecture
 
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 🎓 Education
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=60A5FA" width="21" alt="" /> &nbsp;Selected Work
 
-**Bachelor of Technology**, ITM Skills University (2024–2028)  
-> Specialized in MERN & full‑stack web development, cloud integrations, and DevOps practices.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-<!--START_SECTION:waka-->
+<a href="https://examlyticmain.netlify.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:2563EB&height=108&text=EXAMLYTIC&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=AI%20EXAM%20PROCTORING%20PLATFORM&descSize=11&descColor=BFDBFE&descAlignY=72" width="100%" alt="Examlytic" /></a>
 
-```txt
-From: 24 June 2026 - To: 01 July 2026
+#### AI-powered exam management and proctoring
 
-Total Time: 0 secs
+A full online exam workflow with role-based access, webcam and screen capture, violation signals, auto-submit flows, live monitoring, and admin review.
 
-No activity tracked
+<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,socketio&theme=dark" height="38" alt="React Node Supabase Socket.IO" />
+
+[Live product](https://examlyticmain.netlify.app) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/Examlytics)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,42:312E81,100:7C3AED&height=108&text=WINGAMES.CLUB&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=REAL-TIME%20MATCHMAKING%20SYSTEM&descSize=11&descColor=DDD6FE&descAlignY=72" width="100%" alt="WinGames.club" />
+
+#### Real-time matchmaking and gaming platform
+
+A full-stack product with match queues, wallet flows, deposits, referrals, live game operations, verification workflows, and administration tooling.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,redis&theme=dark" height="38" alt="React Node Express Supabase Redis" />
+
+Private build &nbsp;·&nbsp; Architecture walkthrough available on request
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A15,44:065F46,100:10B981&height=108&text=SEEDBANK%20CLOUD&fontSize=27&fontColor=F8FAFC&fontAlignY=52&desc=AWS%20CLOUD%20ENGINEERING%20CASE%20STUDY&descSize=11&descColor=A7F3D0&descAlignY=72" width="100%" alt="SeedBank Cloud" />
+
+#### AWS-hosted resource management platform
+
+Cloud case study deployed with EC2, PostgreSQL, Docker, Nginx, VPC networking, monitoring, and operational documentation.
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,postgres,nodejs&theme=dark" height="38" alt="AWS Docker Nginx PostgreSQL Node" />
+
+[View GitHub profile](https://github.com/Shlokmonster)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F0B16,45:831843,100:DB2777&height=108&text=DEVCONNECTOR&fontSize=27&fontColor=F8FAFC&fontAlignY=52&desc=DEVELOPER-FIRST%20SOCIAL%20PLATFORM&descSize=11&descColor=FBCFE8&descAlignY=72" width="100%" alt="DevConnector" />
+
+#### Full-stack community product for developers
+
+A developer-oriented social platform featuring JWT authentication, GitHub-focused profiles, feed interactions, and a modular app architecture.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,redux&theme=dark" height="38" alt="React Node MongoDB Redux" />
+
+Work in progress
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide:box.svg?color=60A5FA" width="21" alt="" /> &nbsp;Technical Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&theme=dark" alt="Programming languages" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,graphql,redux&theme=dark" alt="Application development" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,firebase&theme=dark" alt="Data and backend services" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel,netlify,git,figma&theme=dark" alt="Cloud delivery and design" />
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide:orbit.svg?color=60A5FA" width="21" alt="" /> &nbsp;How I Think About Engineering
+
+```text
+01  PRODUCT         Make the user flow clear before adding more features.
+02  SYSTEMS         Build interfaces, APIs, state, data, and deployment as one product.
+03  REAL-TIME       Use events where immediacy improves the experience—not just because it looks cool.
+04  DELIVERY        A project is not finished until it is deployed, documented, and usable.
+05  ITERATION       Ship a strong version, study feedback, then make the next one better.
 ```
 
-<!--END_SECTION:waka-->
+<br/>
+
+## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=60A5FA" width="21" alt="" /> &nbsp;GitHub Signals
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shlokmonster&show_icons=true&hide_border=true&bg_color=030712&title_color=93C5FD&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shlokmonster&layout=compact&hide_border=true&bg_color=030712&title_color=93C5FD&text_color=CBD5E1" alt="Top languages" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Shlokmonster&hide_border=true&background=030712&ring=60A5FA&fire=60A5FA&currStreakLabel=E2E8F0&sideLabels=CBD5E1&dates=64748B&sideNums=E2E8F0&currStreakNum=F8FAFC" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shlokmonster&bg_color=030712&color=CBD5E1&line=2563EB&point=93C5FD&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide:radar.svg?color=60A5FA" width="21" alt="" /> &nbsp;Now
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### BUILDING
+
+Internship-quality full-stack products with clear business flows, purposeful UX, and deployable architecture.
+
+</td>
+<td width="33%" valign="top">
+
+#### LEARNING
+
+System design, AWS, Docker, Kubernetes fundamentals, TypeScript, and scalable backend patterns.
+
+</td>
+<td width="33%" valign="top">
+
+#### OPEN TO
+
+Full-stack internships, ambitious product collaborations, and teams that value ownership and fast learning.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=60A5FA" width="21" alt="" /> &nbsp;Education
+
+**Bachelor of Technology — Computer Science**  
+ITM Skills University · **2024 — 2028**
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,52:1D4ED8,100:60A5FA&height=88&text=LET%E2%80%99S%20BUILD%20SOMETHING%20WORTH%20SHIPPING&fontSize=22&fontColor=F8FAFC&fontAlignY=52" width="100%" alt="Let's build something worth shipping" />
+
+<br/>
+
+<a href="https://shlokkadam.netlify.app"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shlok-kadam"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:shlokkadam46@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+
+<br/><br/>
+
+<sub>Build with intent. Ship with consistency. Improve relentlessly.</sub>
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,18:0B1220,52:1D4ED8,100:60A5FA&height=115&section=footer" width="100%" alt="Footer wave" />
+
+</div>
