@@ -55,67 +55,66 @@ I enjoy the complete loop: **problem → product → deployment → iteration**.
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:layers-3.svg?color=60A5FA" width="21" alt="" /> &nbsp;Selected Work
+## <img src="https://api.iconify.design/lucide:layers-3.svg?color=60A5FA" width="21" alt="" /> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://examlyticmain.netlify.app"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:2563EB&height=108&text=EXAMLYTIC&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=AI%20EXAM%20PROCTORING%20PLATFORM&descSize=11&descColor=BFDBFE&descAlignY=72" width="100%" alt="Examlytic" /></a>
+<a href="https://examlyticmain.netlify.app/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:2563EB&height=108&text=EXAMLYTIC&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=AI%20EXAM%20PROCTORING%20PLATFORM&descSize=11&descColor=BFDBFE&descAlignY=72" width="100%" alt="Examlytic" /></a>
 
 #### AI-powered exam management and proctoring
 
-A full online exam workflow with role-based access, webcam and screen capture, violation signals, auto-submit flows, live monitoring, and admin review.
+A complete online examination platform with role-based access, webcam and screen monitoring, violation detection, auto-submission, live proctoring, and admin review workflows.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,supabase,socketio&theme=dark" height="38" alt="React Node Supabase Socket.IO" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,supabase&theme=dark" height="38" alt="React Vite Node Supabase" />
 
-[Live product](https://examlyticmain.netlify.app) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/Examlytics)
+[Live product](https://examlyticmain.netlify.app/) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/Examlytic-main)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,42:312E81,100:7C3AED&height=108&text=WINGAMES.CLUB&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=REAL-TIME%20MATCHMAKING%20SYSTEM&descSize=11&descColor=DDD6FE&descAlignY=72" width="100%" alt="WinGames.club" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,42:312E81,100:7C3AED&height=108&text=WINGAMES.CLUB&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=REAL-TIME%20GAMING%20PLATFORM&descSize=11&descColor=DDD6FE&descAlignY=72" width="100%" alt="WinGames.club" />
 
 #### Real-time matchmaking and gaming platform
 
-A full-stack product with match queues, wallet flows, deposits, referrals, live game operations, verification workflows, and administration tooling.
+A full-stack gaming product with multiplayer lobbies, private rooms, short-link invites, matchmaking queues, wallet flows, deposits, referrals, verification workflows, and live operations.
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase,redis&theme=dark" height="38" alt="React Node Express Supabase Redis" />
 
-Private build &nbsp;·&nbsp; Architecture walkthrough available on request
+[Live product](https://wingamesludo.netlify.app/) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/WinGames.club)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A15,44:065F46,100:10B981&height=108&text=SEEDBANK%20CLOUD&fontSize=27&fontColor=F8FAFC&fontAlignY=52&desc=AWS%20CLOUD%20ENGINEERING%20CASE%20STUDY&descSize=11&descColor=A7F3D0&descAlignY=72" width="100%" alt="SeedBank Cloud" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071426,45:1E40AF,100:06B6D4&height=108&text=PREPPAL%20AI&fontSize=29&fontColor=F8FAFC&fontAlignY=52&desc=AI%20INTERVIEW%20PREPARATION%20PLATFORM&descSize=11&descColor=CFFAFE&descAlignY=72" width="100%" alt="PrepPal AI" />
 
-#### AWS-hosted resource management platform
+#### Personalized AI mock interview coach
 
-Cloud case study deployed with EC2, PostgreSQL, Docker, Nginx, VPC networking, monitoring, and operational documentation.
+An AI-powered interview preparation platform that generates role-specific questions, conducts structured mock interviews, evaluates responses, and delivers personalized feedback.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,postgres,nodejs&theme=dark" height="38" alt="AWS Docker Nginx PostgreSQL Node" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres&theme=dark" height="38" alt="Next.js React TypeScript PostgreSQL" />
 
-[View GitHub profile](https://github.com/Shlokmonster)
+[Live product](https://prepalmock.netlify.app/) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/PrepPal_Ai)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F0B16,45:831843,100:DB2777&height=108&text=DEVCONNECTOR&fontSize=27&fontColor=F8FAFC&fontAlignY=52&desc=DEVELOPER-FIRST%20SOCIAL%20PLATFORM&descSize=11&descColor=FBCFE8&descAlignY=72" width="100%" alt="DevConnector" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A15,45:065F46,100:10B981&height=108&text=APPLYSYNC&fontSize=30&fontColor=F8FAFC&fontAlignY=52&desc=SMART%20APPLICATION%20TRACKING%20SAAS&descSize=11&descColor=A7F3D0&descAlignY=72" width="100%" alt="ApplySync" />
 
-#### Full-stack community product for developers
+#### AI-powered internship application tracker
 
-A developer-oriented social platform featuring JWT authentication, GitHub-focused profiles, feed interactions, and a modular app architecture.
+A Chrome extension and SaaS platform for tracking internship applications, organizing statuses, generating AI cover letters, creating follow-ups, and managing the complete application journey.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,redux&theme=dark" height="38" alt="React Node MongoDB Redux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,chrome&theme=dark" height="38" alt="React Node MongoDB Chrome Extension" />
 
-Work in progress
+[Live product](https://applysync.netlify.app/) &nbsp;·&nbsp; [Source](https://github.com/Shlokmonster/ApplySync)
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## <img src="https://api.iconify.design/lucide:box.svg?color=60A5FA" width="21" alt="" /> &nbsp;Technical Toolkit
