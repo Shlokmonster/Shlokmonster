@@ -211,7 +211,7 @@ ITM Skills University · **2024 — 2028**
 
 <br/><br/>
 
-<sub>Build with intent. Ship with consistency. Improve relentlessly.</sub>
+<sub>Build with intent. Ship with consistency and Improve relentlessly.</sub>
 
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,18:0B1220,52:1D4ED8,100:60A5FA&height=115&section=footer" width="100%" alt="Footer wave" />
