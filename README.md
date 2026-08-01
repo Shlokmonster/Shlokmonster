@@ -35,7 +35,7 @@
 
 ### <img src="https://api.iconify.design/lucide:user-round.svg?color=60A5FA" width="19" alt="" /> &nbsp;Profile
 
-B.Tech Computer Science student at **ITM Skills University**. I build full-stack experiences that combine thoughtful interfaces, backend systems, and cloud delivery.
+B.Tech Computer Science student at **ITM Skills University**. I build full-stack experiences that combine thoughtful interfaces, backend systems, and cloud delivery
 
 I enjoy the complete loop: **problem → product → deployment → iteration**.
 
